@@ -114,4 +114,3 @@ When you press the letter on your keyboard, it gets converted into binary which 
 The more complicated a task is, the more information that's input or output, the more processing power and memory a computer needs. Modern computers however, already have multiple CPU's and more GigaBytes of memory.
 
 ## Hardware and Software
-
